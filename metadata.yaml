@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43288'
     url: http://www.gutenberg.org/2009/agents/43288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45442#A-Camera-Actress-in-the-Wilds-of-Togoland--13-The-adventures-observations--amp--experiences-o_
 gutenberg_issued: '2014-04-20'
 gutenberg_type: Text
 identifiers:
