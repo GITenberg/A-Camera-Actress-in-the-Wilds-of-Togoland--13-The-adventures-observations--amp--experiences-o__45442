@@ -1,0 +1,41 @@
+_repo: A-Camera-Actress-in-the-Wilds-of-Togoland--13-The-adventures-observations--amp--experiences-o__45442
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Schomburgk, Hans
+    alias: Schomburgk, Hans Herman
+    birthdate: 1880
+    deathdate: 1967
+    gutenberg_agent_id: '43261'
+    url: http://www.gutenberg.org/2009/agents/43261
+covers:
+- cover_type: archival
+  image_path: 45442-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gehrts, Meg
+    aliases:
+    - Gehrts, M. (Meg)
+    - Gehrts, Emma-Augusta
+    birthdate: 1891
+    deathdate: 1966
+    gutenberg_agent_id: '43288'
+    url: http://www.gutenberg.org/2009/agents/43288
+description: ''
+gutenberg_issued: '2014-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Togo -- Description and travel'
+- !lcsh 'Togoland -- Description and travel'
+- !lcc 'DT'
+title: "A Camera Actress in the Wilds of Togoland\r\nThe adventures, observations\
+  \ & experiences of a cinematograph actress in West African forests whilst collecting\
+  \ films depicting native life and when posing as the white woman in Anglo-African\
+  \ cinematograph dramas"
+url: http://www.gutenberg.org/ebooks/45442
